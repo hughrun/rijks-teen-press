@@ -1,3 +1,5 @@
+**Due to unannounced changes to the Rijksmuseum API this code no longer works.**
+
 # Rijks Teen Press bot
 
 This Twitter bot takes a random title from the Teen Vogue rss feed, and pairs it with an image from the Rijksmuseum API to create 'Rijks Teen Press' book covers.
